@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nadar\\Desktop\\E_Commerce\\E_Commerce_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3A6A61-6793-4E3C-9945-8FD2A64039A0}|E_Commerce_API\\Product.csproj|c:\\users\\nadar\\desktop\\e_commerce\\e_commerce_api\\e_commerce_api\\product.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7D3A6A61-6793-4E3C-9945-8FD2A64039A0}|E_Commerce_API\\Product.csproj|solutionrelative:e_commerce_api\\product.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 28,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.csproj",
+              "DocumentMoniker": "C:\\Users\\nadar\\Desktop\\E_Commerce\\E_Commerce_API\\E_Commerce_API\\Product.csproj",
+              "RelativeDocumentMoniker": "E_Commerce_API\\Product.csproj",
+              "ToolTip": "C:\\Users\\nadar\\Desktop\\E_Commerce\\E_Commerce_API\\E_Commerce_API\\Product.csproj",
+              "RelativeToolTip": "E_Commerce_API\\Product.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-14T17:40:35.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

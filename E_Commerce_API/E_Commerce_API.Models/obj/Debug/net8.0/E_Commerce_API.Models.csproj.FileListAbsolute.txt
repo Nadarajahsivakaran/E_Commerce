@@ -1,0 +1,15 @@
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\E_Commerce_API.Models\bin\Debug\net8.0\E_Commerce_API.Models.deps.json
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\E_Commerce_API.Models\bin\Debug\net8.0\E_Commerce_API.Models.runtimeconfig.json
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\E_Commerce_API.Models\bin\Debug\net8.0\E_Commerce_API.Models.dll
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\E_Commerce_API.Models\bin\Debug\net8.0\E_Commerce_API.Models.pdb
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\E_Commerce_API.Models\obj\Debug\net8.0\E_Commerce_API.Models.csproj.AssemblyReference.cache
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\E_Commerce_API.Models\obj\Debug\net8.0\E_Commerce_API.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\E_Commerce_API.Models\obj\Debug\net8.0\E_Commerce_API.Models.AssemblyInfoInputs.cache
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\E_Commerce_API.Models\obj\Debug\net8.0\E_Commerce_API.Models.AssemblyInfo.cs
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\E_Commerce_API.Models\obj\Debug\net8.0\E_Commerce_API.Models.csproj.CoreCompileInputs.cache
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\E_Commerce_API.Models\obj\Debug\net8.0\E_Commerce_API.Models.sourcelink.json
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\E_Commerce_API.Models\obj\Debug\net8.0\E_Commerce_API.Models.dll
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\E_Commerce_API.Models\obj\Debug\net8.0\refint\E_Commerce_API.Models.dll
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\E_Commerce_API.Models\obj\Debug\net8.0\E_Commerce_API.Models.pdb
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\E_Commerce_API.Models\obj\Debug\net8.0\E_Commerce_API.Models.genruntimeconfig.cache
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\E_Commerce_API.Models\obj\Debug\net8.0\ref\E_Commerce_API.Models.dll
