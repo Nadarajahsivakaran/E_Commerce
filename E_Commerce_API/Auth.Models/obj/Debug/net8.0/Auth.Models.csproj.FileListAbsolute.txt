@@ -1,0 +1,13 @@
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\Auth.Models\bin\Debug\net8.0\Auth.Models.deps.json
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\Auth.Models\bin\Debug\net8.0\Auth.Models.dll
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\Auth.Models\bin\Debug\net8.0\Auth.Models.pdb
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\Auth.Models\obj\Debug\net8.0\Auth.Models.csproj.AssemblyReference.cache
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\Auth.Models\obj\Debug\net8.0\Auth.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\Auth.Models\obj\Debug\net8.0\Auth.Models.AssemblyInfoInputs.cache
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\Auth.Models\obj\Debug\net8.0\Auth.Models.AssemblyInfo.cs
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\Auth.Models\obj\Debug\net8.0\Auth.Models.csproj.CoreCompileInputs.cache
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\Auth.Models\obj\Debug\net8.0\Auth.Models.sourcelink.json
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\Auth.Models\obj\Debug\net8.0\Auth.Models.dll
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\Auth.Models\obj\Debug\net8.0\refint\Auth.Models.dll
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\Auth.Models\obj\Debug\net8.0\Auth.Models.pdb
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\Auth.Models\obj\Debug\net8.0\ref\Auth.Models.dll

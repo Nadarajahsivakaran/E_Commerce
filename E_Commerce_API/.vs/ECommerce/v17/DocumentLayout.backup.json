@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nadar\\Desktop\\E_Commerce\\E_Commerce_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3A6A61-6793-4E3C-9945-8FD2A64039A0}|E_Commerce_API\\Product.csproj|c:\\users\\nadar\\desktop\\e_commerce\\e_commerce_api\\e_commerce_api\\controllers\\admin\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3A6A61-6793-4E3C-9945-8FD2A64039A0}|E_Commerce_API\\Product.csproj|solutionrelative:e_commerce_api\\controllers\\admin\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8298B70-0F85-4C39-BE3D-733AA7B2EF73}|E_Commerce_API.Repositories\\Product.DataAccess.csproj|c:\\users\\nadar\\desktop\\e_commerce\\e_commerce_api\\e_commerce_api.repositories\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8298B70-0F85-4C39-BE3D-733AA7B2EF73}|E_Commerce_API.Repositories\\Product.DataAccess.csproj|solutionrelative:e_commerce_api.repositories\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3A6A61-6793-4E3C-9945-8FD2A64039A0}|E_Commerce_API\\Product.csproj|c:\\users\\nadar\\desktop\\e_commerce\\e_commerce_api\\e_commerce_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D3A6A61-6793-4E3C-9945-8FD2A64039A0}|E_Commerce_API\\Product.csproj|solutionrelative:e_commerce_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8298B70-0F85-4C39-BE3D-733AA7B2EF73}|E_Commerce_API.Repositories\\Product.DataAccess.csproj|c:\\users\\nadar\\desktop\\e_commerce\\e_commerce_api\\e_commerce_api.repositories\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8298B70-0F85-4C39-BE3D-733AA7B2EF73}|E_Commerce_API.Repositories\\Product.DataAccess.csproj|solutionrelative:e_commerce_api.repositories\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nadar\\Desktop\\E_Commerce\\E_Commerce_API\\E_Commerce_API.Repositories\\Migrations\\20250521174946_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E_Commerce_API.Repositories\\Migrations\\20250521174946_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8298B70-0F85-4C39-BE3D-733AA7B2EF73}|E_Commerce_API.Repositories\\Product.DataAccess.csproj|c:\\users\\nadar\\desktop\\e_commerce\\e_commerce_api\\e_commerce_api.repositories\\migrations\\20250522081632_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8298B70-0F85-4C39-BE3D-733AA7B2EF73}|E_Commerce_API.Repositories\\Product.DataAccess.csproj|solutionrelative:e_commerce_api.repositories\\migrations\\20250522081632_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 120,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nadar\\Desktop\\E_Commerce\\E_Commerce_API\\E_Commerce_API.Repositories\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API.Repositories\\Repository\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\nadar\\Desktop\\E_Commerce\\E_Commerce_API\\E_Commerce_API.Repositories\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "E_Commerce_API.Repositories\\Repository\\GenericRepository.cs",
+              "ViewState": "AgIAABEAAAAAMjMzMzPzvxAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:52:56.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\nadar\\Desktop\\E_Commerce\\E_Commerce_API\\E_Commerce_API\\Controllers\\Admin\\CategoryController.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API\\Controllers\\Admin\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\nadar\\Desktop\\E_Commerce\\E_Commerce_API\\E_Commerce_API\\Controllers\\Admin\\CategoryController.cs",
+              "RelativeToolTip": "E_Commerce_API\\Controllers\\Admin\\CategoryController.cs",
+              "ViewState": "AgIAAIYAAABAMzMzMzMhwAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:22:08.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250522081632_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\nadar\\Desktop\\E_Commerce\\E_Commerce_API\\E_Commerce_API.Repositories\\Migrations\\20250522081632_InitialCreate.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API.Repositories\\Migrations\\20250522081632_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\nadar\\Desktop\\E_Commerce\\E_Commerce_API\\E_Commerce_API.Repositories\\Migrations\\20250522081632_InitialCreate.cs",
+              "RelativeToolTip": "E_Commerce_API.Repositories\\Migrations\\20250522081632_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:16:32.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250521174946_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\nadar\\Desktop\\E_Commerce\\E_Commerce_API\\E_Commerce_API.Repositories\\Migrations\\20250521174946_InitialCreate.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API.Repositories\\Migrations\\20250521174946_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\nadar\\Desktop\\E_Commerce\\E_Commerce_API\\E_Commerce_API.Repositories\\Migrations\\20250521174946_InitialCreate.cs",
+              "RelativeToolTip": "E_Commerce_API.Repositories\\Migrations\\20250521174946_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:49:47.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nadar\\Desktop\\E_Commerce\\E_Commerce_API\\E_Commerce_API.Repositories\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API.Repositories\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\nadar\\Desktop\\E_Commerce\\E_Commerce_API\\E_Commerce_API.Repositories\\ApplicationDbContext.cs",
+              "RelativeToolTip": "E_Commerce_API.Repositories\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:46:38.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nadar\\Desktop\\E_Commerce\\E_Commerce_API\\E_Commerce_API\\appsettings.json",
+              "RelativeDocumentMoniker": "E_Commerce_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\nadar\\Desktop\\E_Commerce\\E_Commerce_API\\E_Commerce_API\\appsettings.json",
+              "RelativeToolTip": "E_Commerce_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T21:57:23.647Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

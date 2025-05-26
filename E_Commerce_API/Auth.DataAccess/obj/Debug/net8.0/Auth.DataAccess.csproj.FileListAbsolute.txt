@@ -1,0 +1,16 @@
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\Auth.DataAccess\obj\Debug\net8.0\Auth.DataAccess.csproj.AssemblyReference.cache
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\Auth.DataAccess\obj\Debug\net8.0\Auth.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\Auth.DataAccess\obj\Debug\net8.0\Auth.DataAccess.AssemblyInfoInputs.cache
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\Auth.DataAccess\obj\Debug\net8.0\Auth.DataAccess.AssemblyInfo.cs
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\Auth.DataAccess\obj\Debug\net8.0\Auth.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\Auth.DataAccess\obj\Debug\net8.0\Auth.DataAccess.sourcelink.json
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\Auth.DataAccess\bin\Debug\net8.0\Auth.DataAccess.deps.json
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\Auth.DataAccess\bin\Debug\net8.0\Auth.DataAccess.dll
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\Auth.DataAccess\bin\Debug\net8.0\Auth.DataAccess.pdb
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\Auth.DataAccess\bin\Debug\net8.0\Auth.Models.dll
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\Auth.DataAccess\bin\Debug\net8.0\Auth.Models.pdb
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\Auth.DataAccess\obj\Debug\net8.0\Auth.Dat.C9F7C305.Up2Date
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\Auth.DataAccess\obj\Debug\net8.0\Auth.DataAccess.dll
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\Auth.DataAccess\obj\Debug\net8.0\refint\Auth.DataAccess.dll
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\Auth.DataAccess\obj\Debug\net8.0\Auth.DataAccess.pdb
+C:\Users\nadar\Desktop\E_Commerce\E_Commerce_API\Auth.DataAccess\obj\Debug\net8.0\ref\Auth.DataAccess.dll

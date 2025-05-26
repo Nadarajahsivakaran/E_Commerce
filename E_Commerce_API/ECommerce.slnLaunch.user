@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "E_Commerce_API\\Product.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Auth\\Auth.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
